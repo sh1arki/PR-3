@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dcb2e8c-e0ea-4105-88cc-047fa7b47baa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jCqWb64O9KUi6x9q6OPPdonYps" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Shape" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zver\IdeaProjects\PR-3\src\Shape" />
+      <recent name="C:\Users\Zver\IdeaProjects\PR-3\Shape" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Shape" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zver\IdeaProjects\PR-3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestShape">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shape.Test" />
+      <module name="Pr3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shape.TestShape" />
+      <module name="Pr3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestShape" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dcb2e8c-e0ea-4105-88cc-047fa7b47baa" name="Default Changelist" comment="" />
+      <created>1603318456042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603318456042</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="388" width="425" height="212" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603318869285">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="427" y="388" width="425" height="212" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.984@0.0.1280.984" timestamp="1603318869285" />
+    <state x="510" y="372" key="Github.ShareDialog" timestamp="1603319588643">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="510" y="372" key="Github.ShareDialog/0.0.1280.984@0.0.1280.984" timestamp="1603319588643" />
+    <state x="473" y="190" key="Github.UntrackedFilesDialog" timestamp="1603319419397">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="473" y="190" key="Github.UntrackedFilesDialog/0.0.1280.984@0.0.1280.984" timestamp="1603319419397" />
+    <state width="1239" height="247" key="GridCell.Tab.0.bottom" timestamp="1603319317973">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1239" height="247" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1603319317973" />
+    <state width="1239" height="247" key="GridCell.Tab.0.center" timestamp="1603319317973">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1239" height="247" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1603319317973" />
+    <state width="1239" height="247" key="GridCell.Tab.0.left" timestamp="1603319317972">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1239" height="247" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1603319317972" />
+    <state width="1239" height="247" key="GridCell.Tab.0.right" timestamp="1603319317973">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1239" height="247" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1603319317973" />
+    <state x="163" y="137" key="SettingsEditor" timestamp="1603319594432">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="163" y="137" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1603319594432" />
+    <state x="257" y="268" width="572" height="520" key="find.popup" timestamp="1603319210633">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="257" y="268" width="572" height="520" key="find.popup/0.0.1280.984@0.0.1280.984" timestamp="1603319210633" />
+    <state x="131" y="132" key="new project wizard" timestamp="1603318761621">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="131" y="132" key="new project wizard/0.0.1280.984@0.0.1280.984" timestamp="1603318761621" />
+    <state x="470" y="282" key="svn.repositoryBrowser" timestamp="1603318957877">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="470" y="282" key="svn.repositoryBrowser/0.0.1280.984@0.0.1280.984" timestamp="1603318957877" />
+  </component>
+</project>
